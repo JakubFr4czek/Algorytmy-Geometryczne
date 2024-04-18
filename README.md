@@ -3,17 +3,17 @@
 Repozytorium zawiera rozwiązania zadań z przedmiotu Algorytmy Geometryczne
 
 ## Laboratorium 1
-[Lab1](./Lab1)
+[Predykaty geometryczne](./Lab1)
 
 ## Laboratorium 2
-[Lab2](./Lab2)
+[Otoczka wypukła](./Lab2)
 
 ## Laboratorium 3
-[Lab3](./Lab3)
+[Triangulacja wielokątów monotonicznych](./Lab3)
 
 ## Laboratorium 4
-[Lab4](./Lab4)
+[Przecinanie odcinków](./Lab4)
 
 ## Projekt
-[Projekt](./Projekt)
+[Algorytm Welzla oraz Rotating Calipers](./Projekt)
 
